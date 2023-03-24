@@ -1,0 +1,8 @@
+%syntax-version=1.0.0
+%project=mygreensneaker
+
+init 2023-02-16T14:36:58Z alexandre cabarez <alexandre.cabarez@gmail.com> # create DB
+crudUser 2023-02-21T13:58:20Z alexandre cabarez <alexandre.cabarez@gmail.com> # modification de la table user pour le champ role_id
+hiddenProduct 2023-02-22T08:55:01Z Sébastien Gautier <sgautier034@gmail.com> # hidden product in the product table
+sizeToOrderLine 2023-02-28T13:07:23Z alexandre cabarez <alexandre.cabarez@gmail.com> # rajout du champ size dans la table order_line
+hiddenUser 2023-03-02T09:01:25Z Sébastien Gautier <sgautier034@gmail.com> # hide user

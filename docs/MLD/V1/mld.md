@@ -1,0 +1,7 @@
+size(label,refSize)
+INCLUDE(refSize,title)
+product(title,description,brand,price,image)
+INCLUDE(title,refOrder,quantity)
+order(refOrder)
+user(email,password,city,address,phoneNumber,firstName,lastName,zipCode)
+role(refRole,label)
